@@ -3,7 +3,17 @@
     margin-right: 20%;
 }
 
+.centerType {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
 .underline {
     text-decoration: underline;
     color: palevioletred;
+}
+
+.btnRegister {
+    color: green;
+    border: 1px solid greenyellow;
 }
