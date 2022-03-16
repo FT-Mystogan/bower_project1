@@ -17,3 +17,36 @@
     color: green;
     border: 1px solid greenyellow;
 }
+
+.btnRegistered {
+    color: red;
+}
+
+.divOverCreadit {
+    color: red;
+    margin-left: 35%;
+    margin-right: 20%;
+}
+
+.btnOverSlot {
+    color: purple;
+}
+
+.rangeCredit {
+    color: red;
+    margin-left: 78%;
+    margin-right: 5%;
+}
+
+.sizeIcon {
+    width: 10px;
+    height: 10px;
+}
+
+.btnSameSchedule {
+    color: blue;
+}
+
+.paginate {
+    margin-top: 10px;
+}
